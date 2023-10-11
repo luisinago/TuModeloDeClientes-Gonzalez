@@ -1,0 +1,7 @@
+setup.py
+Luisina_Gonz_lez.egg-info/PKG-INFO
+Luisina_Gonz_lez.egg-info/SOURCES.txt
+Luisina_Gonz_lez.egg-info/dependency_links.txt
+Luisina_Gonz_lez.egg-info/top_level.txt
+paquete/login.py
+paquete/personas.py
